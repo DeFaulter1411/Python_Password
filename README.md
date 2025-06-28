@@ -47,7 +47,7 @@ Generated password: hT$7@Lm9#xQ2
 ## 📁 File Structure
 
 ```
-password_creator.py     # Main Python script
+password.py     # Main Python script
 README.md               # This file
 ```
 
